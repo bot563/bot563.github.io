@@ -53,7 +53,7 @@ const PRECACHE_LIST = [
 ];
 const HOSTNAME_WHITELIST = [
   self.location.hostname,
-  "tllwtg.github.io",
+  "anime.noz.jp",
   "yanshuo.io",
   "cdnjs.cloudflare.com",
 ];
