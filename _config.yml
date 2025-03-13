@@ -87,8 +87,8 @@ netease_comment: false
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br>"
-sidebar-avatar: https://avatars.githubusercontent.com/u/63890132 # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "Haya 🗿 <br>"
+sidebar-avatar: https://pps.whatsapp.net/v/t61.24694-24/483111102_511663231989170_2377563591158867796_n.jpg?ccb=11-4&oh=01_Q5AaIUW9nTaNPr_hEhaftyB6lmcGTFB0svjaCg2ZYTtjLgOv&oe=67DF5FED&_nc_sid=5e03e0&_nc_cat=107 # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
